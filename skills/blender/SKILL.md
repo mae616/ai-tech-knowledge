@@ -1,6 +1,5 @@
 ---
 name: blender
-category: tech
 user-invocable: false
 description: Blender MCPを使った3Dモデリングの段階的ワークフロー（プリミティブ→ブロック→サブディビジョン→スカルプト→リトポロジー）と、AI経由のBlender操作の判断軸。3Dモデリング、シーン構築、スカルプティング、リトポロジー、メッシュ編集、Modifier設計、Blender MCPの操作に関する相談で必ず使うこと。ユーザーが「3Dオブジェクト作って」「キャラクターをモデリング」「Blenderで」と言った場合にも適用する。
 ---

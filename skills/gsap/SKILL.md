@@ -1,6 +1,5 @@
 ---
 name: gsap
-category: tech
 user-invocable: false
 description: GSAP（GreenSock Animation Platform）のTween/Timeline/ScrollTrigger/Easingを軸に、ウェブアニメーションの設計・実装・パフォーマンス最適化を整理する。GSAP、GreenSock、ScrollTrigger、ウェブアニメーション、スクロール連動アニメーション、タイムライン制御、イージング設計、gsap.to/fromに関する相談で必ず使うこと。ユーザーが「スクロールで要素をフェードイン」「ページ遷移アニメーション」「シーケンシャルなアニメーション」と言った場合、GSAPが技術スタックに含まれていれば適用する。
 ---

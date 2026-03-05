@@ -1,6 +1,5 @@
 ---
 name: tailwind
-category: tech
 user-invocable: false
 description: Tailwind CSSをutility-first（早すぎる抽象化を避ける）思想で運用し、UI実装の認知負荷を下げながら一貫性と保守性を保つための設計・レビュー・リファクタ判断を整理する。Tailwind CSS、utility-first、CSS設計、クラス肥大化、デザイントークン、コンポーネント化の境界、レスポンシブ設計、ダークモード、tailwind.config、@applyの使い方に関する相談で必ず使うこと。ユーザーが「クラスが長すぎる」「CSS設計を統一したい」「デザインシステムを作りたい」と言った場合、Tailwindが技術スタックに含まれていれば適用する。
 ---

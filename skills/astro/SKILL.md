@@ -1,6 +1,5 @@
 ---
 name: astro
-category: tech
 user-invocable: false
 description: Astroプロジェクトの設計・実装・レビューを、HTML中心/Islands Architecture/クライアントJS最小化の思想で整理する。Astro、Islands Architecture、SSG/SSR選択、コンテンツサイト構築、パフォーマンス最適化、JS削減、マルチフレームワーク統合、.astroファイルに関する相談で必ず使うこと。ユーザーが「静的サイト」「ブログ」「ドキュメントサイト」「ランディングページ」と言った場合も、Astroが技術スタックに含まれていれば適用する。
 ---

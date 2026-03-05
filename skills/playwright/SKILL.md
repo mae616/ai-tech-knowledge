@@ -1,6 +1,5 @@
 ---
 name: playwright
-category: tech
 user-invocable: false
 description: Playwright E2Eテストフレームワークの判断軸。ユーザー視点のロケーター選択・自動待機・テスト分離・CI最適化を公式ベストプラクティスに沿って整理する。Playwright、E2Eテスト、ブラウザテスト、インテグレーションテスト、getByRole、ロケーター設計、テストの安定性、CI上のテスト失敗に関する相談で必ず使うこと。ユーザーが「テストが不安定」「CIでだけ落ちる」「ブラウザテストを書きたい」「ログインフローをテスト」と言った場合、Playwrightが技術スタックに含まれていれば適用する。
 ---

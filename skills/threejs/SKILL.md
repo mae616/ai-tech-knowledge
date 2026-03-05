@@ -1,6 +1,5 @@
 ---
 name: threejs
-category: tech
 user-invocable: false
 description: Three.js（WebGL/3D表現）のScene-Camera-Renderer三位一体と手動メモリ管理を軸に、ウェブ3Dの設計・実装・パフォーマンス最適化を整理する。Three.js、WebGL、React Three Fiber（R3F）、3Dシーン構築、メッシュ/マテリアル/テクスチャ、メモリリーク、dispose()、インスタンシング、シェーダー、GLTFローダーに関する相談で必ず使うこと。ユーザーが「ブラウザで3D」「WebGLで表示」「3Dモデルをウェブに載せたい」「パーティクルエフェクト」と言った場合にも適用する。
 ---

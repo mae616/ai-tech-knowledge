@@ -1,6 +1,5 @@
 ---
 name: svelte
-category: tech
 user-invocable: false
 description: Svelte/SvelteKitプロジェクトにおいて、UI=状態の直接的な反映という思想を軸に、コンパイル時最適化・状態管理・レンダリング・配信量の設計を整理する。Svelte、SvelteKit、.svelteファイル、リアクティビティ、$state/$derived、コンパイラ最適化、軽量UI、store設計、配信量削減に関する相談で必ず使うこと。ユーザーが「Svelteでアプリを作りたい」「ランタイムを減らしたい」「仮想DOMなしのフレームワーク」と言った場合にも適用する。
 ---

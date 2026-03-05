@@ -1,6 +1,5 @@
 ---
 name: react
-category: tech
 user-invocable: false
 description: React/Next.jsプロジェクトで、UI=計算モデル（コンポーネント/状態/レンダリング）を軸に、設計・実装・レビュー・性能改善の判断を整理する。React、Next.js、JSX、コンポーネント設計、useState/useEffect、状態管理、Server Components、SSR/SSG/Streaming、App Router、バンドル最適化、再レンダリング問題に関する相談で必ず使うこと。ユーザーが「コンポーネントの分割」「stateの置き場所」「パフォーマンスが遅い」「RSCの使い分け」と言った場合にも適用する。
 ---
