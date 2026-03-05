@@ -1,0 +1,28 @@
+{
+  "name": "@mae616/ai-tech-knowledge",
+  "version": "1.0.0",
+  "description": "AI技術スキル集 - フレームワーク・ライブラリ・ツールの判断軸をClaude Codeに提供するスキルパッケージ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mae616/ai-tech-knowledge.git"
+  },
+  "homepage": "https://github.com/mae616/ai-tech-knowledge#readme",
+  "bugs": {
+    "url": "https://github.com/mae616/ai-tech-knowledge/issues"
+  },
+  "keywords": [
+    "claude-code",
+    "skills",
+    "react",
+    "astro",
+    "svelte",
+    "tailwind",
+    "threejs",
+    "gsap",
+    "p5js",
+    "playwright",
+    "blender"
+  ],
+  "author": "mae616",
+  "license": "MIT"
+}
