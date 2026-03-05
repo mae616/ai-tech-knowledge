@@ -77,4 +77,3 @@ ai-tech-knowledge/
 ## ライセンス
 
 MIT
-# ai-tech-knowledge
